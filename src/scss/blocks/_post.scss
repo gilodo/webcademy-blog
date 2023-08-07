@@ -1,0 +1,47 @@
+.post {
+    padding: 60px 0 40px;
+    border-bottom: 1px solid #dde2e7;
+}
+
+.post__title {
+    font-family: "Playfair Display", serif;
+    font-size: 33px;
+    font-weight: 400;
+    color: #1a1a1a;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.post__info {
+    font-size: 14px;
+    font-weight: 700;
+    color: #b0b0b0;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.post__img {
+    margin-bottom: 40px;
+}
+
+.post__content {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #000;
+    margin-bottom: 40px;
+}
+
+.post__footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post__read-more {
+
+}
+
+.post__share-icons {
+
+}

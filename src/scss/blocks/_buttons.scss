@@ -1,0 +1,44 @@
+.btn-rounded {
+    height: 38px;
+    padding: 0 40px;
+    border-radius: 19px;
+    background-color: #375573;
+    border: none;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 38px;
+    letter-spacing: 0.24px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color .2s ease-in;
+
+    &:hover {
+        background-color: lighten(#375573, 20%);
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.btn-read-more {
+    display: inline-block;
+    height: 44px;
+    padding: 0 30px;
+    border-radius: 6px;
+    background-color: #375573;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 44px;
+    letter-spacing: 0.24px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color .2s ease-in;
+
+    &:hover {
+        background-color: lighten(#375573, 20%);
+        color: #fff;
+        text-decoration: none;
+    }
+}
